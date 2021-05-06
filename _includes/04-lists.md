@@ -1,3 +1,3 @@
-Emojis
-Lists
-Good
+- Emojis
+- Lists
+- Good

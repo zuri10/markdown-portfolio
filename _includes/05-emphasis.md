@@ -1,3 +1,3 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-- Hi (use bold)
-- Hi (use italic)
+- Hi**hi**
+- _Hi_ (use italic)
